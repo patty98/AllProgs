@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  HuffmanC++.cpp
+d:\disk d old\projects vs c++\huffmanc++\huffmanc++\huffmanc++.cpp(94): warning C4018: <: несоответствие типов со знаком и без знака
+d:\disk d old\projects vs c++\huffmanc++\huffmanc++\huffmanc++.cpp(98): warning C4018: <: несоответствие типов со знаком и без знака
+  HuffmanC++.vcxproj -> D:\Disk D old\projects VS c++\HuffmanC++\Debug\HuffmanC++.exe

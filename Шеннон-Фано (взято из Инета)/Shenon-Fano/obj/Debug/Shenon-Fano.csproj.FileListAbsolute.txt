@@ -1,0 +1,15 @@
+D:\Disk D old\projects VS c++\Shenon-Fano\Shenon-Fano\bin\Debug\Shenon-Fano.exe.config
+D:\Disk D old\projects VS c++\Shenon-Fano\Shenon-Fano\bin\Debug\Shenon-Fano.exe
+D:\Disk D old\projects VS c++\Shenon-Fano\Shenon-Fano\bin\Debug\Shenon-Fano.pdb
+D:\Disk D old\projects VS c++\Shenon-Fano\Shenon-Fano\obj\Debug\Shenon-Fano.csprojAssemblyReference.cache
+D:\Disk D old\projects VS c++\Shenon-Fano\Shenon-Fano\obj\Debug\MainWindow.g.cs
+D:\Disk D old\projects VS c++\Shenon-Fano\Shenon-Fano\obj\Debug\App.g.cs
+D:\Disk D old\projects VS c++\Shenon-Fano\Shenon-Fano\obj\Debug\Shenon-Fano_MarkupCompile.cache
+D:\Disk D old\projects VS c++\Shenon-Fano\Shenon-Fano\obj\Debug\Shenon-Fano_MarkupCompile.lref
+D:\Disk D old\projects VS c++\Shenon-Fano\Shenon-Fano\obj\Debug\MainWindow.baml
+D:\Disk D old\projects VS c++\Shenon-Fano\Shenon-Fano\obj\Debug\Shenon-Fano.g.resources
+D:\Disk D old\projects VS c++\Shenon-Fano\Shenon-Fano\obj\Debug\Shenon_Fano.Properties.Resources.resources
+D:\Disk D old\projects VS c++\Shenon-Fano\Shenon-Fano\obj\Debug\Shenon-Fano.csproj.GenerateResource.cache
+D:\Disk D old\projects VS c++\Shenon-Fano\Shenon-Fano\obj\Debug\Shenon-Fano.csproj.CoreCompileInputs.cache
+D:\Disk D old\projects VS c++\Shenon-Fano\Shenon-Fano\obj\Debug\Shenon-Fano.exe
+D:\Disk D old\projects VS c++\Shenon-Fano\Shenon-Fano\obj\Debug\Shenon-Fano.pdb
